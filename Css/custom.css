@@ -25,11 +25,17 @@
 .sky {
 	color: #00b2ff !important;
 }
+.cherry {
+	color: #a00e44 !important;
+}
 .gry {
-	color: #a2a2a2 !important;
+	color: #818181 !important;
+}
+.heading {
+	color: #383838 !important;
 }
 .bg-gry {
-	background: #a2a2a2 !important;
+	background: #e5e3e3 !important;
 }
 .bg-grad {
 	background-image: linear-gradient(to bottom right, #220763, #3515b4) !important;
@@ -39,19 +45,11 @@
 	border: none !important;
 	padding: 7px 25px !important;
 }
-.account-btn {
-	background: transparent !important;
-	border: none !important;
-	color: #9a9a9a !important;
-}
 .img-50 {
 	width: 70%;
 }
 .d-b {
 	color: #4b0369 !important;
-}
-.d-B {
-	color: #175d98 !important;
 }
 .green {
 	color: #70b247 !important;
@@ -61,38 +59,36 @@
 	border: 1px solid #70b247 !important;
 }
 .bg-g {
-	background-color: #4b0369 !important;
-	border: 1px solid #4b0369 !important;
+	background-color: #880686 !important;
+	border: 1px solid #880686 !important;
+	color: #ffffff;
 }
 
 .btn-purp {
-	background-color: #4b0369 !important;
-	border: 1px solid #4b0369 !important;
-	border-radius: 2px !important;
+	background-color: #880686 !important;
+	border: 1px solid #880686 !important;
+	border-radius: 0px !important;
 	color: #ffffff;
 }
 .btn-purp:hover {
-	color: #4b0369 !important;
+	color: #880686 !important;
 	background-color: #ffffff !important;
 }
 
 .btn-outline {
-	border: 1px solid #70b247 !important;
+	border: 1px solid #880686 !important;
 	background-color: #ffffff !important;
-	color: #70b247 !important;
-	border-radius: 2px !important;
+	color: #880686 !important;
+	border-radius: 0px !important;
 }
-.btn-outline:hover .green {
-	color: #ffffff !important;
-}
-
 .btn-outline:hover {
-	background-color: #70b247 !important;
 	color: #ffffff !important;
+	background-color: #880686 !important;
+	border: 1px solid #880686 !important;
 }
 
 .active {
-	color: #70b247 !important;
+	color: #880686 !important;
 }
 .navbar-light .navbar-toggler {
 	background-color: #ffffff;
