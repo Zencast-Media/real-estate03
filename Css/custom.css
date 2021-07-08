@@ -1,0 +1,159 @@
+/* Customed by Sayantan Bhattacharjee */
+
+.lht-14 {
+	line-height: 14px;
+}
+.lht-20 {
+	line-height: 20px !important;
+}
+
+.modified-small {
+	font-size: 11px !important;
+}
+.font-14 {
+	font-size: 14px !important;
+}
+.font-13 {
+	font-size: 13px !important;
+}
+.font-12 {
+	font-size: 12px !important;
+}
+.white {
+	color: #ffffff !important;
+}
+.sky {
+	color: #00b2ff !important;
+}
+.gry {
+	color: #a2a2a2 !important;
+}
+.bg-gry {
+	background: #a2a2a2 !important;
+}
+.bg-grad {
+	background-image: linear-gradient(to bottom right, #220763, #3515b4) !important;
+}
+.btn-grad {
+	background-image: linear-gradient(to bottom right, #4b0369, #70b247) !important;
+	border: none !important;
+	padding: 7px 25px !important;
+}
+.account-btn {
+	background: transparent !important;
+	border: none !important;
+	color: #9a9a9a !important;
+}
+.img-50 {
+	width: 70%;
+}
+.d-b {
+	color: #4b0369 !important;
+}
+.d-B {
+	color: #175d98 !important;
+}
+.green {
+	color: #70b247 !important;
+}
+.bg-gr {
+	background-color: #70b247 !important;
+	border: 1px solid #70b247 !important;
+}
+.bg-g {
+	background-color: #4b0369 !important;
+	border: 1px solid #4b0369 !important;
+}
+
+.btn-purp {
+	background-color: #4b0369 !important;
+	border: 1px solid #4b0369 !important;
+	border-radius: 2px !important;
+	color: #ffffff;
+}
+.btn-purp:hover {
+	color: #4b0369 !important;
+	background-color: #ffffff !important;
+}
+
+.btn-outline {
+	border: 1px solid #70b247 !important;
+	background-color: #ffffff !important;
+	color: #70b247 !important;
+	border-radius: 2px !important;
+}
+.btn-outline:hover .green {
+	color: #ffffff !important;
+}
+
+.btn-outline:hover {
+	background-color: #70b247 !important;
+	color: #ffffff !important;
+}
+
+.active {
+	color: #70b247 !important;
+}
+.navbar-light .navbar-toggler {
+	background-color: #ffffff;
+}
+
+/* Carousel Custom class starts */
+
+.carousel-indicators li {
+	width: 7px;
+	height: 7px;
+	margin-right: 3px;
+	margin-left: 3px;
+	text-indent: -999px;
+	border-radius: 64px !important;
+	background-color: #3c19d0;
+	position: relative;
+	bottom: -40px;
+	border: none !important;
+}
+.carousel-indicators .active {
+	width: 20px;
+}
+
+/* Select Custom style */
+.custom-select {
+	padding: 0.1rem 1.75rem 0.1rem 0.75rem !important;
+	font-size: 11px !important;
+	color: #a7a7a7 !important;
+	border: 1px solid #ced4da;
+	border-radius: 0rem;
+	height: 32px;
+}
+
+/* Back to top button */
+.back-to-top {
+	position: fixed;
+	display: none;
+	background-image: linear-gradient(to bottom right, #4b0369, #70b247) !important;
+	color: #fff;
+	width: 70px;
+	height: 70px;
+	text-align: center;
+	line-height: 1;
+	font-size: 16px;
+	border-radius: 50%;
+	right: 15px;
+	bottom: 65px;
+	transition: background 0.5s;
+	z-index: 11;
+}
+.back-to-top:hover {
+	background-image: linear-gradient(to bottom right, #4b0369, #4b0369) !important;
+}
+
+.back-to-top i {
+	padding-top: 25px;
+	color: #fff;
+}
+
+@media (max-width: 768px) {
+	.back-to-top {
+		bottom: 15px;
+	}
+}
