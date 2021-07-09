@@ -96,20 +96,21 @@
 
 /* Carousel Custom class starts */
 
-.carousel-indicators li {
-	width: 7px;
-	height: 7px;
-	margin-right: 3px;
-	margin-left: 3px;
-	text-indent: -999px;
-	border-radius: 64px !important;
-	background-color: #3c19d0;
-	position: relative;
-	bottom: -40px;
-	border: none !important;
+.owl-theme .owl-dots .owl-dot.active span,
+.owl-theme .owl-dots .owl-dot:hover span {
+	background: #a00e44 !important;
 }
-.carousel-indicators .active {
-	width: 20px;
+
+.owl-theme .owl-nav.disabled + .owl-dots {
+	position: absolute !important;
+	right: 45px !important;
+}
+
+/* Carousel Custom Class */
+.carousel-control-next,
+.carousel-control-prev {
+	align-items: flex-end !important;
+	bottom: 42px !important;
 }
 
 /* Select Custom style */
