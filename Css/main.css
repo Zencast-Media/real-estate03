@@ -69,6 +69,13 @@ html {
 	background-size: cover;
 	height: 550px;
 }
+.re-inner-sec01 {
+	background-image: url(../Assets/images/Banner-big.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 270px;
+}
 
 .mmt-banner-blur {
 	background-color: rgba(0, 0, 0, 0.4);
