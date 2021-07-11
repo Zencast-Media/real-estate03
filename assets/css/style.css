@@ -1177,7 +1177,7 @@ a:hover {
 }
 
 .services .service-block.color-bg {
-	background: #4b0369;
+	background: #8c4786;
 	color: #fff;
 }
 
@@ -1193,7 +1193,7 @@ a:hover {
 
 .services .service-block i {
 	font-size: 75px;
-	color: #70b247;
+	color: #8c4786;
 }
 
 .services .service-block h3 {
@@ -1434,7 +1434,7 @@ a:hover {
 ==================================================================*/
 .testimonial {
 	padding-top: 100px;
-	background: #4b0369;
+	background: #8c4786;
 	position: relative;
 	padding-bottom: 0px;
 	margin-bottom: 80px;

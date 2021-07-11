@@ -318,6 +318,9 @@ html {
 .mmt-test-blur {
 	background-color: rgba(0, 0, 0, 0.7);
 }
+.mmt-resp-test {
+	width: 50%;
+}
 .resp-row {
 	height: 50%;
 }
@@ -486,6 +489,9 @@ html {
 	}
 	.card-mod {
 		width: 18rem;
+	}
+	.mmt-resp-test {
+		width: 100%;
 	}
 }
 @media only screen and (max-width: 600px) {
