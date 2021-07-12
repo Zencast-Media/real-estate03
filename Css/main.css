@@ -152,13 +152,13 @@ html {
 }
 
 .form-control {
-	font-size: 14px !important;
+	/* font-size: 14px !important; */
 	background: #ffffff !important;
 	border-radius: 0px;
-	height: 32px;
+	/* height: 32px; */
 }
 ::placeholder {
-	font-size: 11px;
+	/* font-size: 11px; */
 }
 
 .id-section04-lft {

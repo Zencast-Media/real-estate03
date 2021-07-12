@@ -8,7 +8,6 @@ body {
 p {
 	font-family: 'Source Sans Pro', sans-serif;
 	color: #848484;
-	font-size: 14px;
 }
 
 h1,
@@ -914,9 +913,9 @@ a:hover {
 }
 
 .social-icon ul li a:hover {
-	background: #70b247;
+	background: #8c4786;
 	color: #fff;
-	border: 1px solid #70b247;
+	border: 1px solid #8c4786;
 }
 
 .social-icon ul li a:hover i {
@@ -1137,7 +1136,6 @@ a:hover {
 
 .portfolio-block:hover .caption {
 	opacity: 1;
-	top: 55%;
 }
 
 .portfolio-block .caption {
@@ -1150,6 +1148,12 @@ a:hover {
 	z-index: 9;
 	transition: all 0.3s ease-in-out;
 	text-align: center;
+	height: 100%;
+	width: 100%;
+	background: rgba(0, 0, 0, 0.5) !important;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 
 .portfolio-block .caption h4 {
