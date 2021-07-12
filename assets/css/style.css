@@ -1565,8 +1565,8 @@ a:hover {
 }
 
 .post-content-share li:hover {
-	background: #28abe3;
-	border-color: #28abe3;
+	background: #880686;
+	border-color: #880686;
 }
 
 .post-content-share li:hover i {
@@ -1685,7 +1685,7 @@ a:hover {
 	right: 0;
 	height: 100%;
 	width: 50px;
-	background: #28abe3;
+	background: #880686;
 	border: 0;
 }
 
@@ -1719,7 +1719,7 @@ a:hover {
 }
 
 .widget-categories-list li a:hover {
-	background: #28abe3;
+	background: #880686;
 	color: #fff;
 	padding-left: 20px;
 }
@@ -1753,7 +1753,7 @@ a:hover {
 }
 
 .widget-post-content h5:hover {
-	color: #28abe3;
+	color: #880686;
 }
 
 /*=================================================================
